@@ -66,6 +66,10 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+<<<<<<< HEAD
 .podspec
 .DS_Store
 
+=======
+.DS_Store
+>>>>>>> 40e9c9912f8420ea5c5371ef2d11528e3646a2e6
